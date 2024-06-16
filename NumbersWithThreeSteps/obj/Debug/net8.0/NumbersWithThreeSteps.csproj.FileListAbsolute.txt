@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\NumbersWithThreeSteps\NumbersWithThreeSteps\bin\Debug\net8.0\NumbersWithThreeSteps.exe
+C:\Users\ninag\RiderProjects\NumbersWithThreeSteps\NumbersWithThreeSteps\bin\Debug\net8.0\NumbersWithThreeSteps.deps.json
+C:\Users\ninag\RiderProjects\NumbersWithThreeSteps\NumbersWithThreeSteps\bin\Debug\net8.0\NumbersWithThreeSteps.runtimeconfig.json
+C:\Users\ninag\RiderProjects\NumbersWithThreeSteps\NumbersWithThreeSteps\bin\Debug\net8.0\NumbersWithThreeSteps.dll
+C:\Users\ninag\RiderProjects\NumbersWithThreeSteps\NumbersWithThreeSteps\bin\Debug\net8.0\NumbersWithThreeSteps.pdb
+C:\Users\ninag\RiderProjects\NumbersWithThreeSteps\NumbersWithThreeSteps\obj\Debug\net8.0\NumbersWithThreeSteps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\NumbersWithThreeSteps\NumbersWithThreeSteps\obj\Debug\net8.0\NumbersWithThreeSteps.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\NumbersWithThreeSteps\NumbersWithThreeSteps\obj\Debug\net8.0\NumbersWithThreeSteps.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\NumbersWithThreeSteps\NumbersWithThreeSteps\obj\Debug\net8.0\NumbersWithThreeSteps.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\NumbersWithThreeSteps\NumbersWithThreeSteps\obj\Debug\net8.0\NumbersWithThreeSteps.dll
+C:\Users\ninag\RiderProjects\NumbersWithThreeSteps\NumbersWithThreeSteps\obj\Debug\net8.0\refint\NumbersWithThreeSteps.dll
+C:\Users\ninag\RiderProjects\NumbersWithThreeSteps\NumbersWithThreeSteps\obj\Debug\net8.0\NumbersWithThreeSteps.pdb
+C:\Users\ninag\RiderProjects\NumbersWithThreeSteps\NumbersWithThreeSteps\obj\Debug\net8.0\NumbersWithThreeSteps.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\NumbersWithThreeSteps\NumbersWithThreeSteps\obj\Debug\net8.0\ref\NumbersWithThreeSteps.dll
